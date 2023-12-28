@@ -1,0 +1,4 @@
+Sphinx==7.1.2
+docutils
+cyrtranslit
+jinja2
