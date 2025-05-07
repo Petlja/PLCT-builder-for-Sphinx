@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "plct-bulder-for-sphinx"
-version = "0.0.3"
+version = "0.0.4"
 description = "Sphinx html builder capable of multiple build targets (scorm, moodle backup, static website)."
 authors = ["Petlja <team@petlja.com>"]
 readme = "README.md"
